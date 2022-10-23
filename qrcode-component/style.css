@@ -22,10 +22,10 @@
     border-radius: 11px;
     margin: 11px;
 }
-h4 {
+.container h4 {
     margin: 20px 20px 20px 20px; 
 }
-p {
+.container p {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 14px;
