@@ -1,0 +1,74 @@
+body {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    background-color: hsl(216, 12%, 8%);
+    font-size: 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 15%;
+
+}
+
+.container {
+    background-color: hsl(213, 19%, 18%);
+    height: 100%;
+    border-radius: 5%;
+    width: 17%;
+
+    display: block;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+
+.ty-icon {
+    margin-top: 10%;
+}
+
+.result {
+    color: hsl(25, 97%, 53%);
+    background-color: hsl(213, 19%, 21%);
+    border-radius: 25px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+
+    margin: 10%;
+}
+
+.result p {
+    font-size: 13px;
+    padding: 1%;
+    margin: 5%;
+}
+
+.texts {
+    display: block;
+    justify-content: center;
+    align-items: center;
+
+    margin: 8% 8% 2% 8%;
+}
+
+#ty {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    color: hsl(0, 0%, 100%);
+}
+
+#text {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: hsl(217, 12%, 63%);
+
+    margin-bottom: 15%;
+}
