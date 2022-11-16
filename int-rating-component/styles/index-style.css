@@ -108,3 +108,11 @@ button:hover {
     background-color: hsl(0, 0%, 100%);
     color: hsl(25, 97%, 53%);
 }
+
+#index {
+    display: block;
+  }
+  
+#ty {
+    display: none;
+}
